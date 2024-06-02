@@ -2,6 +2,10 @@
 
 This code is designed to visualize the intermediate layers of a Convolutional Neural Network (CNN) using Grad-CAM (Gradient-weighted Class Activation Mapping). Grad-CAM is a technique that helps understand which parts of an image influence the decision of a CNN model by highlighting the important regions in the input image. Here's a detailed breakdown of the code:
 
+#### Gard-CAM Architecture
+
+![GradCAM-architecture-1536x733](https://github.com/HR-Fahim/CNNs-Grad-CAM-on-CIFAR-10/assets/66734379/d6c987de-f83c-4120-b1b4-0436a0be1a10)
+
 #### 1. **Loading and Preprocessing Data**
 
 - **Loading CIFAR-10 Data**: The CIFAR-10 dataset is loaded, which contains 60,000 32x32 color images in 10 different classes.
