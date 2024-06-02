@@ -129,6 +129,9 @@ This code is designed to visualize the intermediate layers of a Convolutional Ne
     from IPython.display import Image as IPImage
     IPImage(filename='grad_cam.gif')
     ```
+- **Output Visualization**: Loaded output as GIF.
+
+     ![grad_cam](https://github.com/HR-Fahim/CNNs-Grad-CAM-on-CIFAR-10/assets/66734379/b724002f-ddc1-44e9-89e6-fc1b817d87c4)
 
 ### Explanation of Grad-CAM
 
